@@ -23,7 +23,7 @@ const playfair = Playfair_Display({
 export const metadata = {
   title: "Luxury Gifts – Crafted for Moments That Last Forever",
   description:
-    "Discover Aurielle's handcrafted fine jewelry collection. Ethical gold, conflict-free diamonds, and timeless elegance for life's most precious moments.",
+    "Discover Luxury Gift's handcrafted fine jewelry collection. Ethical gold, conflict-free diamonds, and timeless elegance for life's most precious moments.",
   keywords: [
     "luxury jewelry",
     "fine jewelry",
@@ -36,9 +36,9 @@ export const metadata = {
   openGraph: {
     type: "website",
     url: "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?q=80&w=2040&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    title: "Aurielle Jewelry – Crafted for Moments That Last Forever",
+    title: "Luxury Gifts – Crafted for Moments That Last Forever",
     description:
-      "Discover Aurielle's handcrafted fine jewelry collection. Ethical gold, conflict-free diamonds, and timeless elegance for life's most precious moments.",
+      "Discover Luxury Gift's handcrafted fine jewelry collection. Ethical gold, conflict-free diamonds, and timeless elegance for life's most precious moments.",
     siteName: "Aurielle Jewelry",
     images: [
       {
@@ -51,9 +51,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Aurielle Jewelry – Crafted for Moments That Last Forever",
+    title: "Luxury Gifts – Crafted for Moments That Last Forever",
     description:
-      "Discover Aurielle's handcrafted fine jewelry collection. Ethical gold, conflict-free diamonds, and timeless elegance for life's most precious moments.",
+      "Discover Luxury Gift's handcrafted fine jewelry collection. Ethical gold, conflict-free diamonds, and timeless elegance for life's most precious moments.",
     images: ["https://images.unsplash.com/photo-1549465220-1a8b9238cd48?q=80&w=2040&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
   },
   icons: {
