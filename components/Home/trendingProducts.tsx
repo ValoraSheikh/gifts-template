@@ -4,11 +4,11 @@ import Link from "next/link"
 const products = [
   {
     id: 1,
-    name: 'Machined Pen',
+    name: 'Customized Mug',
     color: 'Black',
     price: '$35',
     href: '/products/123',
-    imageSrc: 'https://images.unsplash.com/photo-1693213085231-fc580d8916de?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8amV3ZWxyeSUyMHByb2R1Y3R8ZW58MHwyfDB8fHww',
+    imageSrc: 'https://images.unsplash.com/photo-1639610778379-2ee7856f422d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     imageAlt: 'Black machined steel pen with hexagonal grip and small white logo at top.',
     availableColors: [
       { name: 'Black', colorBg: '#111827' },
@@ -22,7 +22,7 @@ const products = [
     color: 'Matte Black',
     price: '$28',
     href: '/products/123',
-    imageSrc: 'https://images.unsplash.com/photo-1693833923492-16fd4c1373bf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8amV3ZWxyeSUyMHByb2R1Y3R8ZW58MHwyfDB8fHww',
+    imageSrc: 'https://images.unsplash.com/photo-1503058902370-dbb24d772e41?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     imageAlt: 'Black porcelain mug with modern square handle and natural clay accents on rim and bottom.',
     availableColors: [
       { name: 'Matte Black', colorBg: '#4B5563' },
@@ -31,7 +31,7 @@ const products = [
   },
   {
     id: 3,
-    name: 'Leatherbound Daily Journal Set',
+    name: 'Gold Pendant Necklace',
     color: 'Natural',
     price: '$50',
     href: '/products/123',
@@ -45,7 +45,7 @@ const products = [
   },
   {
     id: 4,
-    name: 'Leatherbound Daily Journal',
+    name: 'Platimum Ring',
     color: 'Black',
     price: '$50',
     href: '/products/123',
