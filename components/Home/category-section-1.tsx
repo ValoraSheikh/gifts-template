@@ -18,14 +18,14 @@ const categories = [
     imageSrc: 'https://images.unsplash.com/photo-1519657814741-5781d2018f70?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   },
   {
-    name: 'Accessories',
+    name: 'Valentine’s Day Gifts',
     href: '/products',
-    imageSrc: 'https://images.unsplash.com/photo-1631982690223-8aa4be0a2497?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGpld2Vscnl8ZW58MHwxfDB8fHww',
+    imageSrc: 'https://images.unsplash.com/photo-1718592565072-9a4827e42f47?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   },
   {
-    name: 'Sale',
+    name: 'Corporate Gifts',
     href: '/products',
-    imageSrc: 'https://images.unsplash.com/photo-1631050165155-421c47e306f7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGpld2Vscnl8ZW58MHwxfDB8fHww',
+    imageSrc: 'https://images.unsplash.com/photo-1657159811523-406280bfd128?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   },
 ]
 
