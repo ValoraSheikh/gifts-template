@@ -8,7 +8,7 @@ const products = [
     href: '/products/123',
     price: '$13',
     description: '3 sizes available',
-    imageSrc: 'https://images.unsplash.com/photo-1694166054938-bf735789f6ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8amV3ZWxyeSUyMHByb2R1Y3RzfGVufDB8fDB8fHww',
+    imageSrc: 'https://images.unsplash.com/photo-1609421140100-839985651c84?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     imageAlt: 'Person using a pen to cross a task off a productivity paper card.',
   },
   {
@@ -17,7 +17,7 @@ const products = [
     href: '/products/123',
     price: '$64',
     description: 'Walnut',
-    imageSrc: 'https://images.unsplash.com/photo-1642373299591-5575fdcaabbb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGpld2VscnklMjBwcm9kdWN0c3xlbnwwfHwwfHx8MA%3D%3D',
+    imageSrc: 'https://images.unsplash.com/photo-1667013878692-36690a64ff42?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     imageAlt: 'Paper card sitting upright in walnut card holder on desk.',
   },
   {
@@ -26,7 +26,7 @@ const products = [
     href: '/products/123',
     price: '$32',
     description: 'Heather Gray',
-    imageSrc: 'https://images.unsplash.com/photo-1670953491625-c3ce26aeb555?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGpld2VscnklMjBwcm9kdWN0c3xlbnwwfHwwfHx8MA%3D%3D',
+    imageSrc: 'https://images.unsplash.com/photo-1705562600317-dc7906327d25?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     imageAlt: 'Textured gray felt pouch for paper cards with snap button flap and elastic pen holder loop.',
   },
   {
@@ -44,7 +44,7 @@ const products = [
     href: '/products/123',
     price: '$35',
     description: 'Black and brass',
-    imageSrc: 'https://images.unsplash.com/photo-1633555234047-192d10238f5f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8amV3ZWxyeSUyMHByb2R1Y3RzfGVufDB8fDB8fHww',
+    imageSrc: 'https://images.unsplash.com/photo-1727784635912-6f6e95d2f66a?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
   },
   {
