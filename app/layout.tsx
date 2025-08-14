@@ -21,7 +21,7 @@ const playfair = Playfair_Display({
 
 // SEO + Social Media Meta Tags
 export const metadata = {
-  title: "Luxury Jewelry – Crafted for Moments That Last Forever",
+  title: "Luxury Gifts – Crafted for Moments That Last Forever",
   description:
     "Discover Aurielle's handcrafted fine jewelry collection. Ethical gold, conflict-free diamonds, and timeless elegance for life's most precious moments.",
   keywords: [
