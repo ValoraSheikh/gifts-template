@@ -18,7 +18,7 @@ export default function SplitImage() {
             height={500}
             width={500}
             alt=""
-            src="https://images.unsplash.com/photo-1723802205477-33f3f4f9135b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8amV3ZWxsZXJ5JTIwaW1hZ2VzfGVufDB8MXwwfHx8MA%3D%3D"
+            src="https://images.unsplash.com/photo-1625552187571-7ee60ac43d2b?q=80&w=919&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             className="absolute inset-0 size-full object-cover"
           />
           <div className="relative flex w-full flex-col items-start justify-end bg-black/40 p-8 sm:p-12">
